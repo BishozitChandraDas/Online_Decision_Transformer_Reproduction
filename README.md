@@ -1,4 +1,4 @@
-# 🤖 Online Decision Transformer — Paper Reproduction
+# 🤖 Online Decision Transformer — Reproduction
 
 A reproduction of the **Online Decision Transformer (ODT)** paper published at ICML 2022,
 including full implementation walkthrough, code analysis, and experimental results on the Hopper-v4 environment.
